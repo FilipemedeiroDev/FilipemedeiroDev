@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Filipe Medeiro 👋
 
 
-- 🔭 Desenvolvedor FullStack em formação
+- 💻 Desenvolvedor FullStack em formação
 - 🌱 Estudando ApiRest e ReactJs
 - 😄 Pronouns: ele/dele
 
