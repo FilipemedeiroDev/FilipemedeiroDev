@@ -2,8 +2,6 @@
 
 
 - 💻 Desenvolvedor web FullStack!
-- 🌱 Estudando ApiRest e ReactJs
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/FilipemedeiroDev">
